@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,cost,stock_quantity,weight_kg,created_date,is_active
+P1001,Laptop Pro,Electronics,Dell,999.99,700.00,45,2.1,2023-01-10,TRUE
+P1002,Wireless Mouse,Electronics,Logitech,29.99,12.50,300,0.12,2023-01-12,TRUE
+P1003,USB Cable,Electronics,Anker,$14.99,4.00,1000,0.05,2023/01/15,Yes
+P1004,Office Chair,Furniture,IKEA,199.99,150.00,55,15.5,2023-02-01,TRUE
+P1005,Standing Desk,Furniture,Ikea,499,350,20,35.2,2023-02-05,TRUE
+P1006,Coffee Maker,Kitchen,Ninja,89.99,55.25,-5,3.5,2023-02-10,TRUE
+P1007,Blender,Kitchen,Ninja,,40.00,35,2.2,2023-02-15,FALSE
+P1008,Water Bottle,Sports,Hydro Flask,39.95,20.00,250,0.45,2023-03-01,TRUE
+P1009,Yoga Mat,Sports,Nike,49,25,100,1.3,2023-03-05,true
+P1010,Tennis Racket,Sports,Wilson,-120,80,15,0.9,2023-03-10,TRUE
+P1011,Notebook,Office,Staples,3.49,1.10,5000,.3,2023-04-01,Y
+P1012,Pen Pack,Office,BIC,12,4,800,,2023-04-02,N
+P1013,Gaming Monitor,Electronics,LG,"399,99",250,50,5.6,2023-04-15,TRUE
+P1014,External SSD,Electronics,Samsung,129.99,95.00,80,0.08,2023-04-18,TRUE
+P1015,Air Fryer,Kitchen,Philips,179.99,110.00,40,5.5,2023-04-20,TRUE
+P1016,Smart Watch,Electronics,Apple,499.99,300.00,25,0.2,2023-05-01,TRUE
+P1017,Bluetooth Speaker,Electronics,JBL,89.99,50.00,150,1.1,2023-05-10,TRUE
+P1018,Vacuum Cleaner,Home,Dyson,699.99,450.00,10,4.5,2023-05-20,TRUE
+P1019,"LED TV 55""""",Electronics,Sony,899.99,650.00,12,15.0,2023-06-01,TRUE
+P1020,Electric Kettle,Kitchen,Hamilton Beach,39.99,20.00,70,1.1,2023-06-10,TRUE
+P1020,Electric Kettle,Kitchen,Hamilton Beach,39.99,20.00,70,1.1,2023-06-10,TRUE
+BADID,Unknown Product,Misc,Unknown,,0,,?,bad-date,unknown
+P1023,Furniture Item 1,Furniture,HomePlus,$433.64,$258.47,15,2.12,2023-12-08,TRUE
+P1024,Furniture Item 2,Furniture,HomePlus,$430.88,$315.86,429,30.63,2023-08-01,Yes
+P1025,Furniture Item 3,Furniture,HomePlus,$452.19,$326.16,401,5.99,2024-09-02,TRUE
+P1026,Sports Item 4,Sports,FitPro,$452.71,$344.07,71,21.65,2023-06-28,TRUE
+P1027,Electronics Item 5,Electronics,TechCo,$84.83,$57.06,408,9.59,2023-11-28,TRUE
+P1028,Furniture Item 6,Furniture,HomePlus,$142.92,$109.82,220,21.09,2025-02-02,TRUE
+P1029,Kitchen Item 7,Kitchen,KitchenCo,$271.22,$182.07,308,4.45,2024-05-30,TRUE
+P1030,Books Item 8,Books,ReadWell,$40.42,$22.13,448,26.39,2023-11-05,FALSE
+P1031,Electronics Item 9,Electronics,TechCo,$45.96,$29.03,210,17.11,2023-04-21,FALSE
+P1032,Kitchen Item 10,Kitchen,KitchenCo,$43.04,$34.03,316,6.02,2023-05-10,FALSE
+P1033,Books Item 11,Books,ReadWell,$417.98,$255.07,171,15.3,2024-09-03,Yes
+P1034,Sports Item 12,Sports,FitPro,$310.29,$184.22,55,31.74,2023-04-28,Yes
+P1035,Books Item 13,Books,ReadWell,$397.51,$289.73,236,35.53,2024-02-28,FALSE
+P1036,Kitchen Item 14,Kitchen,KitchenCo,$289.85,$162.50,165,17.13,2024-11-12,FALSE
+P1037,Sports Item 15,Sports,FitPro,$667.72,$381.67,247,2.78,2023-03-29,TRUE
+P1038,Kitchen Item 16,Kitchen,KitchenCo,$77.27,$43.14,420,5.29,2023-03-03,Yes
+P1039,Books Item 17,Books,ReadWell,$393.83,$226.86,215,14.21,2024-11-12,FALSE
+P1040,Electronics Item 18,Electronics,TechCo,$651.16,$387.52,185,4.23,2024-06-03,TRUE
+P1041,Furniture Item 19,Furniture,HomePlus,$364.73,$264.41,60,14.07,2024-07-23,FALSE
+P1042,Electronics Item 20,Electronics,TechCo,$508.12,$306.23,418,17.22,2024-07-28,Yes
+P1043,Books Item 21,Books,ReadWell,$446.92,$271.62,316,37.17,2024-12-11,FALSE
+P1044,Electronics Item 22,Electronics,TechCo,$134.38,$76.26,163,36.87,2023-12-26,TRUE
+P1045,Furniture Item 23,Furniture,HomePlus,$576.26,$348.60,210,2.88,2025-01-28,Yes
+P1046,Electronics Item 24,Electronics,TechCo,$66.99,$41.24,197,16.85,2023-12-16,TRUE
+P1047,Sports Item 25,Sports,FitPro,$186.96,$128.10,487,22.75,2023-03-28,TRUE
+P1048,Furniture Item 26,Furniture,HomePlus,$113.82,$67.18,350,3.36,2024-03-29,Yes
+P1049,Kitchen Item 27,Kitchen,KitchenCo,$305.82,$196.84,144,8.7,2024-06-08,TRUE
+P1050,Sports Item 28,Sports,FitPro,$249.40,$174.82,352,23.77,2024-06-23,Yes
+P1051,Sports Item 29,Sports,FitPro,$34.78,$22.94,311,2.29,2023-07-29,FALSE
+P1052,Furniture Item 30,Furniture,HomePlus,$558.07,$308.10,153,13.19,2023-01-08,FALSE
+P1053,Kitchen Item 31,Kitchen,KitchenCo,$111.91,$74.40,365,9.28,2024-07-26,Yes
+P1054,Sports Item 32,Sports,FitPro,$63.24,$33.47,26,17.51,2024-04-15,TRUE
+P1055,Sports Item 33,Sports,FitPro,$385.52,$232.42,368,25.64,2023-10-24,TRUE
+P1056,Kitchen Item 34,Kitchen,KitchenCo,$19.33,$13.24,415,37.91,2024-04-16,Yes
+P1057,Sports Item 35,Sports,FitPro,$74.67,$39.81,129,17.48,2024-02-15,Yes
+P1058,Electronics Item 36,Electronics,TechCo,$233.64,$161.33,178,8.94,2025-03-08,TRUE
+P1059,Electronics Item 37,Electronics,TechCo,$266.82,$206.64,266,7.84,2025-03-05,FALSE
+P1060,Sports Item 38,Sports,FitPro,$542.28,$292.31,422,5.99,2023-04-16,TRUE
+P1061,Sports Item 39,Sports,FitPro,$139.46,$82.92,394,30.39,2023-03-19,TRUE
+P1062,Kitchen Item 40,Kitchen,KitchenCo,$310.82,$188.26,301,18.01,2024-08-01,Yes
+P1063,Books Item 41,Books,ReadWell,$262.26,$132.67,166,6.12,2023-03-11,FALSE
+P1064,Kitchen Item 42,Kitchen,KitchenCo,$467.35,$254.40,307,2.34,2024-06-03,TRUE
+P1065,Sports Item 43,Sports,FitPro,$230.51,$187.39,193,33.28,2023-03-20,Yes
+P1066,Electronics Item 44,Electronics,TechCo,$398.09,$247.93,241,23.26,2025-01-26,TRUE
+P1067,Kitchen Item 45,Kitchen,KitchenCo,$603.38,$364.07,101,12.93,2024-05-02,Yes
+P1068,Furniture Item 46,Furniture,HomePlus,$598.11,$383.30,420,35.98,2023-12-18,Yes
+P1069,Electronics Item 47,Electronics,TechCo,$273.36,$204.30,131,28.33,2024-03-25,Yes
+P1070,Books Item 48,Books,ReadWell,$366.62,$245.87,474,11.39,2024-02-23,FALSE
+P1071,Books Item 49,Books,ReadWell,$43.78,$25.68,176,2.73,2023-04-07,Yes
+P1072,Kitchen Item 50,Kitchen,KitchenCo,$208.57,$117.24,341,38.58,2024-09-09,TRUE
+P1073,Sports Item 51,Sports,FitPro,$64.37,$37.19,474,14.06,2024-11-02,Yes
+P1074,Kitchen Item 52,Kitchen,KitchenCo,$98.85,$55.94,48,12.45,2024-01-21,Yes
+P1075,Sports Item 53,Sports,FitPro,$566.33,$326.21,429,37.89,2024-12-02,Yes
+P1076,Electronics Item 54,Electronics,TechCo,$400.35,$260.18,190,0.83,2023-11-13,TRUE
+P1077,Furniture Item 55,Furniture,HomePlus,$253.77,$139.98,103,9.14,2023-05-21,TRUE
+P1078,Electronics Item 56,Electronics,TechCo,$223.03,$121.84,264,30.86,2025-01-26,Yes
+P1079,Electronics Item 57,Electronics,TechCo,$506.57,$266.46,321,5.33,2024-01-21,TRUE
+P1080,Furniture Item 58,Furniture,HomePlus,$134.08,$76.43,324,32.38,2023-06-19,Yes
+P1081,Kitchen Item 59,Kitchen,KitchenCo,$33.20,$22.26,373,9.58,2024-03-30,Yes
+P1082,Sports Item 60,Sports,FitPro,$552.11,$302.19,124,21.41,2023-11-13,FALSE
+P1083,Furniture Item 61,Furniture,HomePlus,$294.24,$150.30,230,18.52,2023-10-16,FALSE
+P1084,Books Item 62,Books,ReadWell,$420.94,$213.35,423,8.07,2024-09-11,TRUE
+P1085,Sports Item 63,Sports,FitPro,$40.58,$25.61,195,22.23,2023-04-16,Yes
+P1086,Books Item 64,Books,ReadWell,$487.27,$341.21,395,6.5,2024-04-05,Yes
+P1087,Furniture Item 65,Furniture,HomePlus,$424.36,$333.26,471,8.96,2024-04-06,FALSE
+P1088,Electronics Item 66,Electronics,TechCo,$256.22,$168.88,196,9.51,2023-03-25,FALSE
+P1089,Furniture Item 67,Furniture,HomePlus,$31.37,$16.13,434,28.62,2023-12-10,TRUE
+P1090,Furniture Item 68,Furniture,HomePlus,$38.93,$20.13,246,27.87,2023-05-23,Yes
+P1091,Kitchen Item 69,Kitchen,KitchenCo,$219.41,$182.20,45,0.86,2023-08-09,TRUE
+P1092,Books Item 70,Books,ReadWell,$635.01,$376.39,221,4.54,2023-10-23,TRUE
+P1093,Sports Item 71,Sports,FitPro,$73.89,$53.13,332,31.78,2024-04-13,TRUE
+P1094,Electronics Item 72,Electronics,TechCo,$536.74,$335.49,279,0.76,2024-06-11,Yes
+P1095,Furniture Item 73,Furniture,HomePlus,$413.90,$288.83,5,24.63,2023-09-04,Yes
+P1096,Kitchen Item 74,Kitchen,KitchenCo,$137.01,$78.99,273,38.99,2023-03-11,Yes
+P1097,Books Item 75,Books,ReadWell,$408.86,$205.39,288,0.91,2024-04-26,TRUE
+P1098,Kitchen Item 76,Kitchen,KitchenCo,$550.66,$392.51,13,14.35,2023-03-11,FALSE
+P1099,Furniture Item 77,Furniture,HomePlus,$501.43,$294.51,400,23.32,2025-02-13,FALSE
+P1100,Furniture Item 78,Furniture,HomePlus,$36.84,$22.51,421,25.75,2025-03-08,Yes
