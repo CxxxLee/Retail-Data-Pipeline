@@ -179,18 +179,18 @@ Retail-Data-Pipeline/
 │   └── orders.csv
 │
 ├── pyspark/
-│   └── PySpark ETL scripts
+│   └── project_1.py
 │
 ├── snowflake/
-│   └── Snowflake SQL scripts
+│   ├── Retail_Gold_data.sql
+│   ├── Retail_Iceberg_tables.sql
+│   ├── Retail_project_setup.sql
+│   └── Retail_Validation.sql
 │
 ├── powerbi/
 │   ├── README.md
-│   ├── Retail_Analytics_Dashboard.pbix
+│   ├── Retail_Dash.pbix
 │   └── screenshots/
-│
-├── architecture/
-│   └── architecture-diagram.png
 │
 └── README.md
 
