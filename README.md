@@ -166,7 +166,14 @@ For additional Power BI documentation and dashboard screenshots, see the [`Power
 
 ![Customer Dashboard](Power_BI/screenshots/Retail_Customer_Dashboard.png)
 
+## Key Business Insights
 
+The final Power BI dashboards highlight several insights from the processed retail data:
+
+- The retail dataset generated **$57.24K in revenue and $17.47K in profit**, achieving an overall **30.5% profit margin** across 73 orders.
+- **Furniture generated the highest category revenue (~$16K)**, while **Electronics produced the highest category profit (~$4.17K)**, demonstrating that the highest-revenue category was not the most profitable.
+- Revenue showed significant monthly variation, with **December producing the highest revenue (~$7.8K)** and **October the lowest (~$0.4K)**.
+- **High Value customers generated approximately $36.1K in revenue**, substantially outperforming the Medium Value ($12.6K) and Low Value ($8.5K) customer segments.
 
 ## Repository Structure
 
